@@ -1,0 +1,392 @@
+[{
+  "_id": {
+    "$oid": "5ffde418e3f185713ae3c882"
+  },
+  "image": [
+    "public/images/planet-futsal-2f7c22734ae76b72cd78a5ee5dcf8fc8.jpg",
+    "public/images/planet-futsal-0a8230a961c3ebdc8e0bd1fbce2b699e.jpg",
+    "public/images/planet-futsal-0bb8bba8f41189a938afe0eb0473f88e.jpg",
+    "public/images/planet-futsal-e92a2946900e2e7b2e57087203b4e623.jpg"
+  ],
+  "deleted": true,
+  "fieldName": "Planet Futsal",
+  "location": "Jl. Komplek Hankam No. 178, Kebayoran Lama, Jakarta Selatan",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "description": "Planet futsal terletak di Jakarta Selatan",
+  "created_at": {
+    "$date": "2021-01-12T18:02:00.702Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T01:26:40.876Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ffdeeca5180f1763807d1d4"
+  },
+  "image": [
+    "public/images/maestro-futsal-0bdb75ce471c7dcaf17d19f4737db4a3.jpg",
+    "public/images/maestro-futsal-e47019af7f5b65283fdff81b2c952098.jpg",
+    "public/images/maestro-futsal-7d3735af68de1a4a339830200fae0096.jpg",
+    "public/images/maestro-futsal-c98fd413bf4493c6a486558fb35ce615.jpg"
+  ],
+  "deleted": true,
+  "fieldName": "Maestro Futsal",
+  "location": "Jl. Sentani No. 24, RW: 10, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota  Jakarta, 10720",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "description": "Maestro Futsal terletak di Jakarta Pusat",
+  "created_at": {
+    "$date": "2021-01-12T18:47:38.317Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T01:26:08.720Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ffdef2a5180f1763807d1d5"
+  },
+  "image": [
+    "public/images/centro-futsal-e80f35265ed7a184ae4e4205d35adf6d.jpg",
+    "public/images/centro-futsal-4dea5722ddc37abf0563b2facb0ff20e.jpg",
+    "public/images/centro-futsal-86e14f3b7b1e9babae41dd7384adc9a5.jpg",
+    "public/images/centro-futsal-869f891a4961cc397c2441a957e0a35c.jpg"
+  ],
+  "deleted": true,
+  "fieldName": "Centro Futsal",
+  "location": "Jl. Margacinta No. 48, Cijaura, Kec. Buahbatu, Kota Bandung, Jawa Barat, 40286",
+  "price": {
+    "$numberDecimal": "135"
+  },
+  "description": "Centro Futsal terletak di Kota Bandung",
+  "created_at": {
+    "$date": "2021-01-12T18:49:14.700Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T01:23:47.025Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ffdef8c5180f1763807d1d6"
+  },
+  "image": [
+    "public/images/futsal-35-affb5d1b81706367e3c8e2aad9ed5a58.jpg",
+    "public/images/futsal-35-e9a40c4af6a91d07d5b7776bd58aef21.jpg",
+    "public/images/futsal-35-346fd76369e4f597bceaffcf53a87cee.jpg",
+    "public/images/futsal-35-e802e672228ba248d25beeb4e3a7712a.jpg"
+  ],
+  "deleted": true,
+  "fieldName": "Futsal 35",
+  "location": "Jl. International School No. 8 A, Cicaheum, Kec. Kiaracondong, Kota Bandung, Jawa Barat, 40282",
+  "price": {
+    "$numberDecimal": "140"
+  },
+  "description": "Futsal 35 terletak di Kota Bandung",
+  "created_at": {
+    "$date": "2021-01-12T18:50:52.506Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T01:24:47.906Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ffdeff25180f1763807d1d7"
+  },
+  "image": [
+    "public/images/radja-futsal-gayamsari-091060b0d48662ec318cac528052c6b2.jpg",
+    "public/images/radja-futsal-gayamsari-707abfa4532fb7a208479e989338779f.jpg",
+    "public/images/radja-futsal-gayamsari-d69b42e24e52c54e2a90f6456e4de2b5.jpg",
+    "public/images/radja-futsal-gayamsari-0944b6e883ff532f1d39b2ed8a7280a8.jpg"
+  ],
+  "deleted": true,
+  "fieldName": "Radja Futsal Gayamsari",
+  "location": "Jl. Majapahit No. 127, Gayamsari, Kec. Gayamsari, Kota Semarang, Jawa Tengah, 50248",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "description": "Radja Futsal Gayamsari terletak di Kota Semarang",
+  "created_at": {
+    "$date": "2021-01-12T18:52:34.096Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T01:27:11.488Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ffdf0595180f1763807d1d8"
+  },
+  "image": [
+    "public/images/venus-futsal-club-ecd683caee48d13dc2ab5f90e8aacc7c.jpg",
+    "public/images/venus-futsal-club-02c2f30c18e62a8e6976eb8939c57a6a.jpg",
+    "public/images/venus-futsal-club-e7c41feef05248f9e5f77f47642e5e93.jpg",
+    "public/images/venus-futsal-club-518692b13483d3263d634932adf11dc7.jpg"
+  ],
+  "deleted": true,
+  "fieldName": "Venus Futsal Club",
+  "location": "Jl. Gendong Raya, Sendangmulyo, Tembalang, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah, 50272",
+  "price": {
+    "$numberDecimal": "110"
+  },
+  "description": "Venus Futsal Club terletak di Kota Semarang",
+  "created_at": {
+    "$date": "2021-01-12T18:54:17.071Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T01:28:16.449Z"
+  }
+},{
+  "_id": {
+    "$oid": "600552a11effdf7e7d1f704a"
+  },
+  "image": [
+    "venus-futsal-club-1-7f29707048cdc3963b2ba43f3b82a92e.jpg",
+    "venus-futsal-club-1-ffec3ec46c92b53c4620f5647b387b02.jpg",
+    "venus-futsal-club-1-16a79e43cb8aa3f6ccea4f31056387ae.jpg",
+    "venus-futsal-club-1-92561c1ff6e9563dd36ae4ad0b88c3aa.jpg"
+  ],
+  "deleted": true,
+  "fieldName": "Venus Futsal Club 1",
+  "location": "Jl. Gendong Raya, Sendangmulyo, Tembalang, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah, 50272",
+  "price": {
+    "$numberDecimal": "110"
+  },
+  "description": "Venus Futsal Club terletak di Kota Semarang, tepatnya di Jl. Gendong Raya, Sendangmulyo, Tembalang, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah, 50272. Venus Futsal terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T09:19:29.124Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T01:29:02.911Z"
+  }
+},{
+  "_id": {
+    "$oid": "60050ec9ba88db45955da702"
+  },
+  "image": [
+    "/images/radja-futsal-gayamsari-a84484b96f800bfb277d5b9b4c474be3.jpg",
+    "/images/radja-futsal-gayamsari-238af1bdb4bb87da814a75310f6dc46e.jpg",
+    "/images/radja-futsal-gayamsari-299ffd5a2ab33ab8ffa105f1e572e2af.jpg",
+    "/images/radja-futsal-gayamsari-59315ef2f5b107a8df363be74068d519.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Radja Futsal Gayamsari",
+  "location": "Jl. Majapahit No. 127, Gayamsari, Kec. Gayamsari, Kota Semarang, Jawa Tengah, 50248",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "description": "Radja Futsal Gayamsari terletak di Kota Semarang, tepatnya di Jl. Majapahit No. 127, Gayamsari, Kec. Gayamsari, Kota Semarang, Jawa Tengah, 50248. Radja Futsal Gayamsari terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T04:30:05.133Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:13:39.173Z"
+  }
+},{
+  "_id": {
+    "$oid": "600513ca38232609d343d6c0"
+  },
+  "image": [
+    "/images/venus-futsal-club-0f0098d0e5315e14aa020ace575fc10c.jpg",
+    "/images/venus-futsal-club-ff9cd9f209c13b52d7e8cb2c85d459ac.jpg",
+    "/images/venus-futsal-club-28f916ee091162da7eb760c739c925f9.jpg",
+    "/images/venus-futsal-club-574fa2426c41d2e7bbbdb682e9678269.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Venus Futsal Club",
+  "location": "Jl. Gendong Raya, Sendangmulyo, Tembalang, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah, 50272",
+  "price": {
+    "$numberDecimal": "110"
+  },
+  "description": "Venus Futsal Club terletak di Kota Semarang, tepatnya di Jl. Gendong Raya, Sendangmulyo, Tembalang, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah, 50272. Venus Futsal terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T04:51:22.789Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:14:21.187Z"
+  }
+},{
+  "_id": {
+    "$oid": "6005143738232609d343d6c1"
+  },
+  "image": [
+    "/images/planet-futsal-2b1a14afe6cf7d7b1467b6f690353b81.jpg",
+    "/images/planet-futsal-28a9da6cc253706e3089152ea2b0f3a5.jpg",
+    "/images/planet-futsal-392bbde6b9ac8917718f7fea0aeeab73.jpg",
+    "/images/planet-futsal-1feb52c2a5bd0754548b815d77213d67.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Planet Futsal",
+  "location": "Jl. Komplek Hankam No. 178, Kebayoran Lama, Jakarta Selatan",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "description": "Planet Futsal terletak di Jakarta Selatan, tepatnya di Jl. Komplek Hankam No. 178, Kebayoran Lama, Jakarta Selatan. Planet Futsal terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T04:53:11.806Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:12:24.257Z"
+  }
+},{
+  "_id": {
+    "$oid": "6005148338232609d343d6c2"
+  },
+  "image": [
+    "/images/maestro-futsal-77bfad694c8a252d1996f63ed3784895.jpg",
+    "/images/maestro-futsal-5f48406c3a0883bf3bf7b54c3b363744.jpg",
+    "/images/maestro-futsal-39707c0f27d1f2ea27a3536a1c622896.jpg",
+    "/images/maestro-futsal-91eb00d17d55a7a6bad86c377a1cdaa8.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Maestro Futsal",
+  "location": "Jl. Sentani No. 24, RW: 10, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10720",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "description": "Maestro Futsal terletak di Jakarta Pusat, tepatnya di Jl. Sentani No. 24, RW: 10, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10720. Maestro Futsal terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T04:54:27.107Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:11:30.278Z"
+  }
+},{
+  "_id": {
+    "$oid": "600514d338232609d343d6c3"
+  },
+  "image": [
+    "/images/centro-futsal-424c6eced5e1c5adf75dd0eee76b9105.jpg",
+    "/images/centro-futsal-8a18c399f64bed66256d8fcab3c00af6.jpg",
+    "/images/centro-futsal-1846235dccf11742217d474426cd03e5.jpg",
+    "/images/centro-futsal-146c33227684f65ae3ccbd48f0339992.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Centro Futsal",
+  "location": "Jl. Margacinta No. 48, Cijaura, Kec. Buahbatu, Kota Bandung, Jawa Barat, 40286",
+  "price": {
+    "$numberDecimal": "135"
+  },
+  "description": "Centro Futsal terletak di Kota Bandung, tepatnya di Jl. Margacinta No. 48, Cijaura, Kec. Buahbatu, Kota Bandung, Jawa Barat, 40286. Centro Futsal terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T04:55:47.176Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:08:47.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "6005159038232609d343d6c4"
+  },
+  "image": [
+    "/images/futsal-35-8442448240aa3f356a65ce8cfb96da37.jpg",
+    "/images/futsal-35-d0456029f8be17a84d0ce2637f3a0451.jpg",
+    "/images/futsal-35-dd543522fbb8163b0645e119b379bc4f.jpg",
+    "/images/futsal-35-a2093c2b4e608c9f3be4f24387568879.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Futsal 35",
+  "location": "Jl. Majapahit No. 127, Gayamsari, Kec. Gayamsari, Kota Semarang, Jawa Tengah, 50248",
+  "price": {
+    "$numberDecimal": "115"
+  },
+  "description": "Futsal 35 terletak di Kota Semarang, tepatnya di Jl. Majapahit No. 127, Gayamsari, Kec. Gayamsari, Kota Semarang, Jawa Tengah, 50248. Futsal 35 terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T04:58:56.481Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:10:00.046Z"
+  }
+},{
+  "_id": {
+    "$oid": "60051bc438232609d343d6c5"
+  },
+  "image": [
+    "/images/sokker-blast-7affaaee7dd281cd6c6a0821e435684f.jpg",
+    "/images/sokker-blast-22e34c7c2a9d493c7287af5967611ffb.jpg",
+    "/images/sokker-blast-3140c4f920b6f85f2cb9b48b86e1bd6e.jpg",
+    "/images/sokker-blast-5af6464c6613574a3ca9265e05c1c634.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Sokker Blast",
+  "location": "Jl. Nursaid No.09, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251",
+  "price": {
+    "$numberDecimal": "125"
+  },
+  "description": "Sokker Blast terletak di Kota Bandung, tepatnya di Jl. Nursaid No.09, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251. Sokker Blast terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T05:25:24.501Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:14:06.056Z"
+  }
+},{
+  "_id": {
+    "$oid": "60051c9138232609d343d6c6"
+  },
+  "image": [
+    "/images/baskhara-futsal-arena-f3e55e3a4ba9d3bf29f21598efdb091f.jpg",
+    "/images/baskhara-futsal-arena-c1fe3e538a916fcc7a8402d23688032a.jpg",
+    "/images/baskhara-futsal-arena-b3c752141708e494972b46b2f4f42146.jpg",
+    "/images/baskhara-futsal-arena-6738471219a3d03b780d08859d9d1670.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Baskhara Futsal Arena",
+  "location": "Jl. Manyar Jaya Praja I No.47, Menur Pumpungan, Kec. Sukolilo, Kota Surabaya, Jawa Timur, 60118",
+  "price": {
+    "$numberDecimal": "130"
+  },
+  "description": "Baskhara Futsal Arena terletak di Kota Surabaya, tepatnya di Jl. Manyar Jaya Praja I No.47, Menur Pumpungan, Kec. Sukolilo, Kota Surabaya, Jawa Timur, 60118. Baskhara Futsal Arena terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T05:28:49.897Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:05:00.390Z"
+  }
+},{
+  "_id": {
+    "$oid": "60051d3638232609d343d6c7"
+  },
+  "image": [
+    "/images/golden-futsal-4d750141c628dd662f9435b82a21e11d.jpg",
+    "/images/golden-futsal-945e0aa6d600fa31c32de21c02934635.jpg",
+    "/images/golden-futsal-1914215dcc70cd37debcfd0faf087c26.jpg",
+    "/images/golden-futsal-9a1121f596a654445911597db43caa8a.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Golden Futsal",
+  "location": "Jl. Subali Raya No. 6, RT: 1 RW: 4, Krapyak, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50146",
+  "price": {
+    "$numberDecimal": "125"
+  },
+  "description": "Golden Futsal terletak di Kota Semarang, tepatnya di Jl. Subali Raya No. 6, RT: 1 RW: 4, Krapyak, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50146. Golden Futsal terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T05:31:34.213Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:10:50.263Z"
+  }
+},{
+  "_id": {
+    "$oid": "60051e1238232609d343d6c8"
+  },
+  "image": [
+    "/images/rajawali-futsal-cb839207a735f2bdfb00613fd2ed5334.jpg",
+    "/images/rajawali-futsal-b538611fed69e4e04401a12ef030c0b3.jpg",
+    "/images/rajawali-futsal-74c2acb85f734ad720b78e2ba1fd8f0a.jpg",
+    "/images/rajawali-futsal-01af9c12044386a100cea60e64724293.jpg"
+  ],
+  "deleted": false,
+  "fieldName": "Rajawali Futsal",
+  "location": "Gg. Beringin No.47, RT: 001 RW: 001, Pabuaran, Kec. Karawaci, Kota Tangerang, Banten, 15114",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "description": "Rajawali Futsal terletak di Kota Tangerang, tepatnya di Gg. Beringin No.47, RT: 001 RW: 001, Pabuaran, Kec. Karawaci, Kota Tangerang, Banten, 15114. Rajawali Futsal terbilang cukup murah untuk penyewaan lapangan futsal, sangat ramah dengan kantong mahasiswa.",
+  "created_at": {
+    "$date": "2021-01-18T05:35:14.142Z"
+  },
+  "updated_at": {
+    "$date": "2021-01-20T08:13:47.607Z"
+  }
+}]
