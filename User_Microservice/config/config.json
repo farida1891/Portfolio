@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "farida",
+    "password": "Icon+492",
+    "database": "Soka_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "farida",
+    "password": "Icon+492",
+    "database": "Soka_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "farida",
+    "password": "Icon+492",
+    "database": "Soka_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
